@@ -1,0 +1,4 @@
+zmq
+imutils
+opencv-contrib-python
+matplotlib
